@@ -1,0 +1,8 @@
+{
+  "env": {
+      "MONGO_USER": "ershovOne",
+      "MONGO_PASSWORD": "jacksonville_1",
+      "MONGO_DB": "todos",
+      "PORT": 6060
+  }
+}
